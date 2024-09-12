@@ -1,5 +1,5 @@
 # COVID-19 Tracker<br>
-A real-time global COVID-19 statistics app.
+A real-time global COVID-19 statistics app leveraging the COVID API to featch all the covid data around the world.
 
 ## Features:
 
